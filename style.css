@@ -1,0 +1,19 @@
+div{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    display: flex;
+    justify-content: stretch;
+    align-items: stretch;
+}
+
+img{
+    max-width: 49%;
+    max-height: 49%;
+    border-radius: 7px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
